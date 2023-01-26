@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+How the `UI` of my app looks like...
+
+![Spotify ss](https://user-images.githubusercontent.com/72072039/214829341-c5a4b834-15a9-48ad-b7b6-e813b8fce592.png)
 
 In the project directory, you can run:
 
@@ -8,7 +11,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+ 
+ 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
